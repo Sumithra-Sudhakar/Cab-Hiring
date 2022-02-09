@@ -15,3 +15,15 @@ GoCar is a mobile application that helps its users to book/hire a cab. The appli
 2. Backend
 3. Database
 4. Reports 
+
+## 🔖Contributers
+
+Bandi Kulwanth
+
+Riteesh
+
+Sanketh S
+
+Srinivasarengan
+
+Sumithra .S
